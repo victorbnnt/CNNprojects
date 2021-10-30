@@ -13,7 +13,7 @@ Data augmentation - Flowers classification: notebook</a>
 
 ### 3.  Kaggle dataset: Chest X-Ray Images (Pneumonia)
 <a href="https://www.kaggle.com/victorbnnt/97-accuracy-chest-x-ray-classification" target="_blank">
-97% accuracy chest-X-ray-classification</a>
+97% accuracy chest-X-ray-classification: notebook</a>
 
 
 
