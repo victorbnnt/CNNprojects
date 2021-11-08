@@ -15,8 +15,8 @@ Data augmentation - Flowers classification: notebook</a>
 <a href="https://www.kaggle.com/victorbnnt/97-accuracy-chest-x-ray-classification" target="_blank">
 97% accuracy chest-X-ray-classification: notebook</a>
 
-### 4.  Kaggle dataset: 310 Bird Species - Classification
-<a href="https://www.kaggle.com/victorbnnt/94-birds-species-classification" target="_blank">
-94% Birds species classification with transfer learning from VGG16 and data augmentation: notebook</a>
+### 4.  Kaggle dataset: 315 Bird Species - Classification
+<a href="https://www.kaggle.com/victorbnnt/95-accuracy-on-315-birds-species" target="_blank">
+95% Birds species classification with transfer learning from VGG16 and data augmentation: notebook</a>
 
 
