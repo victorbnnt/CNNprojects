@@ -18,6 +18,6 @@ Data augmentation - Flowers classification: notebook</a>
 ### 4.  Kaggle dataset: 315 Bird Species - Classification
 <a href="https://www.kaggle.com/victorbnnt/95-accuracy-on-315-birds-species" target="_blank">
 95% Birds species classification with transfer learning from VGG16 and data augmentation: notebook</a><br/>
-The application is also available here: <a href="https://bluejay-c7humgbxkq-ew.a.run.app" target="_blank">Bird species finder</a>
+The application is also available here: <a href="http://moqku.co/bluejay" target="_blank">Bird species finder</a>
 
 
